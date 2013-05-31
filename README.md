@@ -4,7 +4,4 @@ This app is a sample development app to demonstrate the capabilities of the dev 
 
 Heading
 ======
-
-Cahkreiraet
-adfdasfe
-gtw
+Pradeep Modified from Eclipse
